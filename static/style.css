@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 40px;
+}
+
+.container {
+    width: 80%;
+    margin: 40px auto;
+    background: white;
+    padding: 30px;
+    border-radius: 10px;
+}
+
+h1 {
+    color: darkblue;
+}
+
+h2 {
+    color: green;
+}
+
+a {
+    text-decoration: none;
+    padding: 10px;
+    font-weight: bold;
+}
+
+a:hover {
+    color: red;
+}
+
+hr {
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+input, textarea {
+    width: 300px;
+    padding: 8px;
+}
+
+input[type="submit"] {
+    width: 120px;
+    cursor: pointer;
+}
